@@ -1,0 +1,23 @@
+:root{
+    --primary-color: #f9ede5;
+    --secondary-color: #b6a2a9;
+    --tertiary-color: #5f6377;
+    --accent-color: #2f4858;
+}
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: var(--primary-color);
+}
+nav{
+    background-color: var(--primary-color);
+}
+.navbar-collapse ul{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+.description{
+    font-weight: lighter;
+}
