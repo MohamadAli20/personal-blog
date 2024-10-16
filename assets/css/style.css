@@ -19,5 +19,11 @@ nav{
     justify-content: end;
 }
 .description{
-    /* font-weight: lighter !important; */
+
+}
+hr{
+    margin-top: 0;
+}
+video{
+    height: 100%;
 }
