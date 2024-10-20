@@ -27,3 +27,7 @@ hr{
 video{
     height: 100%;
 }
+.birthday-gif{
+    cursor: none;
+    pointer-events: none;
+}
