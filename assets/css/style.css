@@ -30,6 +30,7 @@ video{
 .giphy-embed{
     cursor: none;
     pointer-events: none;
+    
 }
 .btn-modal{
     /* display: none; */
