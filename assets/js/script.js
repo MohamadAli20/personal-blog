@@ -12,3 +12,4 @@ const appendAlert = (message, type) => {
 }
 
 appendAlert('Welcome to my blog! Note: This website is still being developed.', 'warning')
+

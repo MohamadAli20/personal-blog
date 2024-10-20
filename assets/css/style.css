@@ -31,3 +31,17 @@ video{
     cursor: none;
     pointer-events: none;
 }
+.btn-modal{
+    /* display: none; */
+    visibility: hidden;
+}
+.modal-content{
+    background-color: var(--primary-color);
+    border-radius: 0 !important;
+    border: none;
+}
+.modal-footer button{
+    background-color: var(--tertiary-color) !important;
+    border-radius: 0;
+    color: var(--primary-color);
+}
