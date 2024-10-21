@@ -11,5 +11,5 @@ const appendAlert = (message, type) => {
     alertPlaceholder.append(wrapper)
 }
 
-appendAlert('Welcome to my blog! Note: This website is still being developed.', 'warning')
+appendAlert('Welcome to my blog! Your privacy is important to me. I don’t collect any personal data or use cookies, so you can enjoy reading without any worries about tracking or data theft. Note: This website is still being developed. ', 'warning')
 
